@@ -1,0 +1,6 @@
+nome,codice_istat,codice_catastale,provincia,regione,popolazione,superficie_kmq,latitudine,longitudine
+Roma,058091,H501,Roma,Lazio,2873000,1287.36,41.8931,12.4828
+Milano,015146,F205,Milano,Lombardia,1366000,181.76,45.4642,9.19
+Napoli,063049,F839,Napoli,Campania,914000,119.02,40.8522,14.2681
+Torino,001272,L219,Torino,Piemonte,847000,130.17,45.0703,7.6869
+Palermo,082053,G273,Palermo,Sicilia,637000,158.88,38.1157,13.3615
