@@ -1,0 +1,21 @@
+nome,codice_istat,codice_catastale,provincia,regione,popolazione,superficie_kmq,latitudine,longitudine
+Roma,058091,H501,Roma,Lazio,2873000,1287.36,41.8931,12.4828
+Milano,015146,F205,Milano,Lombardia,1366000,181.76,45.4642,9.19
+Napoli,063049,F839,Napoli,Campania,914000,119.02,40.8522,14.2681
+Torino,001272,L219,Torino,Piemonte,847000,130.17,45.0703,7.6869
+Palermo,082053,G273,Palermo,Sicilia,637000,158.88,38.1157,13.3615
+Genova,010025,D969,Genova,Liguria,560000,243.6,44.4056,8.9463
+Bologna,037006,A944,Bologna,Emilia-Romagna,390000,140.73,44.4949,11.3426
+Firenze,048017,D612,Firenze,Toscana,360000,102.41,43.7696,11.2558
+Bari,072006,A662,Bari,Puglia,320000,117.41,41.1171,16.8719
+Catania,087015,C351,Catania,Sicilia,311000,182.9,37.5079,15.083
+Venezia,027042,L736,Venezia,Veneto,260000,414.57,45.4408,12.3155
+Verona,023091,L781,Verona,Veneto,257000,198.92,45.4384,10.9916
+Messina,083048,F158,Messina,Sicilia,230000,213.75,38.1938,15.554
+Padova,028060,G224,Padova,Veneto,210000,92.85,45.4064,11.8768
+Trieste,032006,L424,Trieste,Friuli-Venezia Giulia,204000,84.49,45.6495,13.7768
+Taranto,073027,L049,Taranto,Puglia,195000,249.86,40.4644,17.247
+Brescia,017029,B157,Brescia,Lombardia,196000,90.34,45.5416,10.2118
+Prato,100005,G999,Prato,Toscana,194000,97.35,43.8777,11.1022
+Reggio Calabria,080063,H223,Reggio Calabria,Calabria,182000,239.04,38.111,15.6613
+Modena,036023,F257,Modena,Emilia-Romagna,186000,183.19,44.6471,10.9252
